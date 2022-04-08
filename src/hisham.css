@@ -1,0 +1,62 @@
+.tm-hr {
+  border-color: #c79c60;
+}
+
+.tm-section-header {
+  width: 350px;
+}
+
+.gold-text {
+  color: #c79c60;
+}
+
+.tm-handwriting-font {
+  font-family: "Damion", cursive;
+  font-style: italic;
+}
+
+.tm-hr-container {
+  width: 100%;
+  height: 41px;
+}
+
+.jack {
+  margin-top: 5%;
+}
+
+.wid {
+  text-align: center;
+}
+
+.kite {
+  width: 20%;
+}
+
+.da {
+  border: 1px solid gray;
+  width: 60%;
+}
+
+.iji {
+  border: 2px solid gray;
+  width: 50%;
+}
+
+.size {
+}
+
+.dice {
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+  margin-top: -5%;
+  padding-bottom: 10%;
+}
+
+.move {
+  /* margin-top: 50%; */
+}
+
+.round {
+  border-radius: 10px;
+}

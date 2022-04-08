@@ -1,0 +1,109 @@
+.one {
+  height: auto;
+  width: auto;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
+  /* background-image: linear-gradient(#afcae0af, #a8c1d6ad); */
+
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+
+  text-align: center;
+}
+.two {
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.hw {
+  height: auto;
+  width: auto;
+  /* background-color: gray; */
+  margin-top: 15px;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
+  color: white;
+  /* border: 1px solid #000000; */
+  border-radius: 15px;
+}
+.firstbtn {
+  height: 40px;
+  width: auto;
+  margin-top: -5px;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
+  border: 1px solid white;
+  color: white;
+  border-top: white;
+  border-bottom: white;
+  border-left: whitesmoke;
+  border-right: whitesmoke;
+}
+.firstbox {
+  height: 40px;
+  margin-top: 20px;
+  width: 350px;
+  padding: 10px;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
+  /* color: white; */
+  /* border: 1px solid white; */
+  border-top: white;
+  border-bottom: white;
+  border-left: whitesmoke;
+  border-right: whitesmoke;
+
+  margin-left: 20px;
+  /* margin-left: 100px; */
+}
+
+.boxx {
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 350px;
+  /* border: 1px solid white; */
+  border-top: white;
+  border-bottom: white;
+  border-left: whitesmoke;
+  border-right: whitesmoke;
+}
+.pp {
+  margin-left: 20px;
+}
+.secbtn {
+  /* background-color: red; */
+  height: 40px;
+
+  width: 70px;
+  background-image: linear-gradient(#2193b0, #6dd5ed);
+  color: white;
+  border: 1px solid white;
+  margin-top: 20px;
+  position: absolute;
+  border-top: white;
+  border-bottom: white;
+  border-left: whitesmoke;
+  border-right: whitesmoke;
+}
+
+/*  */
+/*  */
+.reactb {
+  width: 10px;
+  height: 5px;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+.reactt {
+  width: 50px;
+  height: 25 px;
+  margin-left: 200px;
+  margin-top: -20px;
+}
+.reacti {
+  /* margin-top: 10px; */
+}
+.change {
+  margin-left: 300px;
+}
+/*  */
+/*  */

@@ -1,0 +1,113 @@
+.cen {
+  text-align: center;
+}
+.bg {
+  background-color: whitesmoke;
+}
+
+.a0 {
+  background-color: rgba(180, 176, 176, 0.664);
+  height: 500px;
+  width: 150px;
+  margin-left: 30px;
+  /* margin: 10px; */
+}
+.tab {
+  border: 1px solid rgba(150, 145, 145, 0.103);
+  width: 150px;
+  border-collapse: collapse;
+  border-radius: 5px;
+}
+.dd {
+  border: 2px solid rgba(70, 63, 63, 0.342);
+}
+
+th {
+  border: 2px solid black;
+  width: 30px;
+}
+.a1 {
+  background-color: rgba(150, 219, 150, 0.664);
+  height: 250px;
+  width: 250px;
+  border-radius: 5px;
+  margin-left: 250px;
+  margin-top: -530px;
+  /* padding: 2px; */
+}
+.a2 {
+  background-color: rgba(224, 204, 240, 0.719);
+  height: 250px;
+  width: 250px;
+  border-radius: 5px;
+  margin-left: 550px;
+  margin-top: -270px;
+}
+.a3 {
+  background-color: rgba(147, 200, 223, 0.521);
+  height: 250px;
+  width: 250px;
+  border-radius: 5px;
+  margin-left: 850px;
+  margin-top: -270px;
+}
+.a4 {
+  background-color: whitesmoke;
+  height: 230px;
+  width: 400px;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 250px;
+}
+table {
+  border: 2px solid black;
+  width: 400px;
+  border-collapse: collapse;
+  border-radius: 5px;
+}
+td {
+  border: 2px solid black;
+}
+tr {
+  border: 2px solid black;
+  width: 50px;
+}
+th {
+  border: 2px solid black;
+  width: 30px;
+}
+.a5 {
+  background-color: white;
+  height: 230px;
+  width: 400px;
+  border-radius: 5px;
+  margin-top: -250px;
+  margin-left: 700px;
+}
+
+.sample_1 {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+.sample_2 {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.sample_3 {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+}
+/* true file css */
+.value1 {
+  height: 100px;
+  width: auto;
+  background-color: blue;
+}
+.value2 {
+  height: 100px;
+  width: auto;
+  background-color: bisque;
+}

@@ -1,0 +1,84 @@
+.edu {
+  text-align: center;
+  margin-top: 25px;
+}
+.add {
+  text-align: center;
+  margin-top: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: 1px solid white;
+  color: black;
+  background-color: #fff;
+  border-radius: 30px;
+  height: 40px;
+  width: 80px;
+}
+.view {
+  text-align: center;
+  margin-top: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: 1px solid white;
+  color: black;
+  background-color: #fff;
+  border-radius: 30px;
+  height: 40px;
+  width: 80px;
+}
+/*  */
+/*  */
+.font {
+  font-size: 95%;
+  /* margin-left: 10%; */
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.36rem 0.7rem;
+  font-size: 0.3;
+  font-weight: 200;
+  /* line-height: .; */
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.wihe {
+  width: auto;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.cen {
+  text-align: center;
+  border-radius: 100px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  /* color: black; */
+  /* background-color: rgba(128, 128, 128, 0.273); */
+  border-color: white;
+}
+/*  */
+/*  */
+.tablebox {
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  margin-top: 40px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+/*  */
+.display {
+  display: visibile;
+}
+.nodisplay {
+  display: none;
+}

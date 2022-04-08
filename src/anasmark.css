@@ -1,0 +1,72 @@
+.display {
+  display: visibile;
+}
+.nodisplay {
+  display: none;
+}
+.check1 {
+  display: normal;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.14),
+    0 7px 10px -5px rgba(64, 64, 64, 0.4) !important;
+  border-radius: 9px;
+  font-size: 0.8em;
+  line-height: 30px;
+}
+.lay {
+  min-height: 300px;
+  width: auto;
+}
+.check1 td,
+th {
+  text-align: center;
+}
+.check1 thead {
+  border-bottom: 2px solid #dee2e6 !important;
+}
+.check1 th input[type="text"] {
+  height: 25px;
+  width: 13%;
+  text-align: center;
+}
+.check {
+  font-size: 0.9em;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  padding: 2px;
+  color: white;
+  width: 70px;
+}
+.font1 td input[type="text"] {
+  height: 25px;
+  width: 18%;
+  text-align: center;
+}
+.font1 {
+  display: normal;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.14),
+    0 7px 10px -5px rgba(64, 64, 64, 0.4) !important;
+  border-radius: 9px;
+  font-size: 0.8em;
+  line-height: 30px;
+}
+.font1 td,
+th {
+  text-align: center;
+}
+.font1 thead {
+  border-bottom: 2px solid #dee2e6 !important;
+}
+.font {
+  font-size: 0.9em;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  padding: 2px;
+  color: white;
+  width: 70px;
+}
+.lay {
+  min-height: 300px;
+  width: auto;
+}

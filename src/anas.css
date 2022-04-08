@@ -1,0 +1,52 @@
+.pic-block {
+  height: 290px;
+  width: auto;
+}
+.text-block {
+  height: 90px;
+  width: auto;
+  margin-top: -90px;
+}
+.text-block::after {
+  content: "";
+  background-color: grey;
+  width: 90px;
+  height: 5px;
+  margin: 35px 30px;
+}
+.text-block::before {
+  content: "";
+  background-color: grey;
+  width: 90px;
+  height: 5px;
+  margin: 35px 30px;
+}
+.text-block h1 {
+  font-size: 50px;
+  color: white;
+}
+.heading-block h2 {
+  color: #c79c60;
+  font-size: 60px;
+}
+.row-background {
+  background-color: #282726;
+}
+.padding {
+  color: white;
+  word-spacing: 2px;
+  padding: 0px 40px;
+}
+.heading-block button {
+  color: #c79c60;
+  background-color: blue;
+}
+.buttonpic {
+  /* background-image: url(./img/button.png); */
+  width: 196px;
+  height: 46px;
+  text-transform: uppercase;
+  font-size: 16px;
+  color: #c79c60;
+  padding: 12px 70px;
+}

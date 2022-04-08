@@ -1,0 +1,80 @@
+.con {
+  /* margin: 300px; */
+  margin-top: 150px;
+  text-align: center;
+}
+.con2 {
+  margin-top: 100px;
+  background-color: whitesmoke;
+  height: 200px;
+  padding-top: 50px;
+
+  /* text-align: center; */
+}
+.cbox {
+}
+.confooter {
+  margin-top: 50px;
+  color: white;
+  /* background-color: blanchedalmond; */
+}
+ul {
+  text-decoration: none;
+}
+.foot {
+  /* background-color: blue; */
+  margin-top: 40px;
+}
+.cc {
+  background-color: darkblue;
+}
+.about1 {
+  margin-top: 100px;
+}
+/*  */
+/*  */
+.font {
+  font-size: 16vw;
+  color: #313b44;
+  line-height: 1.2;
+  font-weight: 900;
+}
+
+.span {
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: #313b44;
+}
+.pad {
+  padding-left: 120px;
+}
+.imghome {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+}
+.imghomeA {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}
+.img2 {
+  height: 450px;
+  width: 450px;
+}
+.cd {
+  background-color: whitesmoke;
+  height: 450px;
+  width: 450px;
+}
+.hh {
+  font-size: 4vw;
+}
+.ps {
+  padding-top: 50px;
+  padding-left: 10px;
+}
+.xy {
+  gutter-x: 1.5rem;
+}

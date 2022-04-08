@@ -1,0 +1,215 @@
+/* import wave from "./img/wave.jpeg"; */
+
+.swami {
+  background-color: aqua;
+  height: auto;
+  width: auto;
+}
+.navbar-light .navbar-toggler {
+  color: white;
+  border-color: white;
+}
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  /* color: white; */
+  background-color: white;
+  background-position: center;
+  background-size: 100%;
+}
+.bb {
+  background: rgba(3, 3, 26, 0.952);
+}
+#hn::after {
+  content: "";
+  position: absolute;
+  background: #ef6603;
+  height: 1.2px;
+  width: 100px;
+  margin: 25px 10px;
+}
+#col {
+  color: #fff;
+}
+
+.pricingbutton {
+  background-color: whitesmoke;
+}
+#pb {
+  border-radius: 40px;
+  /* background-color: tomato; */
+  background: #ef6603;
+
+  color: white;
+}
+#pbh {
+  /* border-radius: 40%; */
+  /* background-color: tomato; */
+  background: #ef6603;
+
+  color: white;
+}
+.color {
+  color: #aaaaaa;
+}
+.anas2 {
+  line-height: 40px;
+  list-style: none;
+}
+.car {
+  margin-top: 550px;
+  text-align: center;
+}
+.car1 {
+  text-align: center;
+  color: white;
+  margin-top: -420px;
+  /* height: auto; */
+  /* margin-left: 150px; */
+  /* width: 800px; */
+}
+.learnmore {
+  margin: 10px;
+}
+.anas {
+  background-color: red;
+  height: 100px;
+  width: auto;
+}
+.height {
+  font-size: 73px;
+}
+.i i {
+  color: #e9bf06;
+  font-size: 60px;
+  /* margin-right: 20px; */
+}
+#nna {
+  color: #ccc;
+  text-decoration: line-through;
+}
+.dd {
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 2px 29px 0 rgb(68 88 144 / 12%);
+  transition: all 0.4s ease-in-out;
+  width: 100%;
+  height: 100%;
+}
+.ss {
+  padding: 0px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 2px 29px 0 rgb(68 88 144 / 12%);
+  transition: all 0.4s ease-in-out;
+  width: 100%;
+  height: 100%;
+}
+.pricingbox {
+  border-radius: 4px;
+  border: 1px solid whitesmoke;
+}
+.pricingbtn {
+  /* margin-top: 10px; */
+  text-align: center;
+  border-radius: 3px;
+}
+.action {
+  background-color: black;
+  color: white;
+}
+.btn-buy {
+  background: #ef6603;
+  display: inline-block;
+  padding: 8px 35px 10px 35px;
+  border-radius: 50px;
+  color: #fff;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  text-decoration: none;
+  margin-top: 5px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: rgba(3, 3, 26, 0.952);
+  /* background: darkgray; */
+  overflow: hidden;
+}
+
+section .wave {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+
+  background-image: url(./img/wave.png);
+  background-size: 1000px 100px;
+}
+
+section .wave.wave1 {
+  animation: animate 30s linear infinite;
+  z-index: 1000;
+  opacity: 1;
+  animation-delay: 0s;
+  bottom: 0;
+}
+
+section .wave.wave2 {
+  animation: animate2 15s linear infinite;
+  z-index: 999;
+  opacity: 0.5;
+  animation-delay: 5s;
+  bottom: 10px;
+}
+
+section .wave.wave3 {
+  animation: animate 30s linear infinite;
+  z-index: 998;
+  opacity: 0.2;
+  animation-delay: -2;
+  bottom: 15;
+}
+section .wave.wave4 {
+  animation: animate2 5s linear infinite;
+  z-index: 997;
+  opacity: 0.7;
+  animation-delay: -5s;
+  bottom: 20px;
+}
+@keyframes animate {
+  0% {
+    background-position-x: 0px;
+  }
+  100% {
+    background-position-x: 1000px;
+  }
+}
+
+@keyframes animate2 {
+  0% {
+    background-position-x: 0px;
+  }
+  100% {
+    background-position-x: -1000px;
+  }
+}

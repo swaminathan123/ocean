@@ -1,0 +1,119 @@
+/* * {
+  padding: 0px;
+  margin: 0px;
+  /* overflow-x: hidden; */
+/* } */
+/* .lay {
+  min-height: 300px;
+  width: auto;
+}
+.lay h3 {
+  line-height: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.lay input[type="text"] {
+  height: 25px;
+  width: 20%;
+}  */
+/*  */
+/* .font {
+  font-size: 0.8em;
+  justify-content: space-around;
+  display: flex;
+}
+.font1 {
+  font-size: 0.8em;
+  justify-content: space-around;
+  display: flex;
+}
+.font1 input[type="text"] {
+  height: 25px;
+  width: 20%;
+}
+.lay {
+  min-height: 300px;
+  width: auto;
+} */
+/*  */
+.check1 {
+  display: normal;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.14),
+    0 7px 10px -5px rgba(64, 64, 64, 0.4) !important;
+  border-radius: 9px;
+  font-size: 0.8em;
+  line-height: 30px;
+}
+.lay {
+  min-height: 300px;
+  width: auto;
+}
+.check1 td,
+th {
+  text-align: center;
+}
+.check1 thead {
+  border-bottom: 2px solid #dee2e6 !important;
+}
+.check1 th input[type="text"] {
+  height: 25px;
+  width: 13%;
+  text-align: center;
+}
+.check {
+  font-size: 0.9em;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  padding: 2px;
+  color: white;
+  width: 70px;
+}
+.check::after {
+  height: 100%;
+  left: -35%;
+  top: 0;
+  transform: skew(50deg);
+  transition-duration: 0.65;
+  transform-origin: top left;
+  width: 0;
+}
+.check:hover:after {
+  height: 100%;
+  width: 135%;
+}
+/*  */
+/*  */
+.font1 td input[type="text"] {
+  height: 25px;
+  width: 18%;
+  text-align: center;
+}
+.font1 {
+  display: normal;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.14),
+    0 7px 10px -5px rgba(64, 64, 64, 0.4) !important;
+  border-radius: 9px;
+  font-size: 0.8em;
+  line-height: 30px;
+}
+.font1 td,
+th {
+  text-align: center;
+}
+.font1 thead {
+  border-bottom: 2px solid #dee2e6 !important;
+}
+.font {
+  font-size: 0.9em;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  padding: 2px;
+  color: white;
+  width: 70px;
+}
+.lay {
+  min-height: 300px;
+  width: auto;
+}

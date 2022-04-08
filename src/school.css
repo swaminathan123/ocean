@@ -1,0 +1,48 @@
+.text {
+  color: #200769;
+  padding-top: 20px;
+}
+.bg {
+  padding-top: 60px;
+}
+.size {
+  padding-top: 100px;
+}
+.con {
+  margin-top: 30px;
+}
+
+.owl-theme .owl-nav {
+  margin-top: 100px;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+}
+.btn {
+  padding: 8px 20px;
+  margin-top: 30px;
+  border-radius: 25px;
+  border: 1px solid white;
+  background-color: #a19ef0c9;
+  color: white;
+}
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel button.owl-dot {
+  background: none;
+  /* color: inherit; */
+  border: none;
+  padding: 0 !important;
+  font: inherit;
+  display: none;
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .bg {
+    margin-top: 35px;
+  }
+}
+.display {
+  display: none;
+}
+.noDisplay {
+  display: block;
+}
